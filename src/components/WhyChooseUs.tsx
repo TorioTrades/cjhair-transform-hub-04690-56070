@@ -4,23 +4,23 @@ const WhyChooseUs = () => {
   const benefits = [
     {
       icon: Sparkles,
-      title: "Expert Care, Stunning Results",
-      description: "Powered by certified beauty experts based on personalized treatment strategy.",
+      title: "Advanced Hair Techniques",
+      description: "Brazilian Keratin treatments, precision coloring, and balayage by certified stylists.",
     },
     {
       icon: Heart,
-      title: "We Care for You in All Aspects",
-      description: "Holistic approach to your style, skin, and overall well-being.",
+      title: "Personalized Hair Solutions",
+      description: "Customized treatments for your unique hair type, texture, and desired transformation.",
     },
     {
       icon: Award,
-      title: "One-Stop Beauty Destination",
-      description: "From hair to nails, everything you need under one luxurious roof.",
+      title: "Premium Quality Products",
+      description: "Only the finest professional-grade hair products for lasting, healthy results.",
     },
     {
       icon: Users,
-      title: "Experienced & Friendly Staff",
-      description: "Professional experts who prioritize your comfort and satisfaction.",
+      title: "Experienced Hair Specialists",
+      description: "Skilled stylists dedicated to bringing your hair vision to life with expert precision.",
     },
   ];
 
