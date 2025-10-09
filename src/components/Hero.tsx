@@ -20,12 +20,12 @@ const Hero = () => {
           {/* Text Content */}
           <div className="text-center lg:text-left animate-fade-in-up space-y-4 md:space-y-6">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold font-serif text-balance leading-tight">
-              Where Style Begins & 
-              <span className="block text-primary mt-1 md:mt-2">Confidence Takes Shape</span>
+              Transform Your Hair & 
+              <span className="block text-primary mt-1 md:mt-2">Unleash Your Confidence</span>
             </h1>
             
             <p className="text-base md:text-lg lg:text-xl text-muted-foreground max-w-2xl mx-auto lg:mx-0 text-balance">
-              Indulge in our luxurious sanctuary of beauty where cutting-edge techniques meet personalized care. Transform your look and unleash your confidence with our expert team.
+              Experience premium hair transformations with Brazilian Keratin, expert coloring, balayage, and precision styling. Your journey to stunning, healthy hair starts here.
             </p>
             
             <Button 
