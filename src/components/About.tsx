@@ -1,4 +1,4 @@
-import salonInterior from "@/assets/salon-interior-new.jpg";
+import salonInterior from "@/assets/salon-interior.jpg";
 
 const About = () => {
   return (
