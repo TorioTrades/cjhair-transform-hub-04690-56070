@@ -30,7 +30,7 @@ const WhyChooseUs = () => {
         <div className="text-center mb-12 md:mb-16 animate-fade-in-up">
           <p className="text-primary font-medium tracking-wider uppercase text-xs md:text-sm mb-2">Why Choose Us</p>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-serif text-foreground">
-            Why Choose Hair Lounge Salon?
+            Why Choose CJ Hair Lounge?
           </h2>
         </div>
 
