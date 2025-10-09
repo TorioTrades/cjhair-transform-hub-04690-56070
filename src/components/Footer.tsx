@@ -68,12 +68,11 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-base md:text-lg text-foreground mb-3 md:mb-4">Services</h4>
             <ul className="space-y-2 md:space-y-3 text-sm md:text-base text-muted-foreground">
-              <li>Hair Services</li>
-              <li>Beauty Treatments</li>
-              <li>Makeup Services</li>
-              <li>Hair Extensions</li>
-              <li>Skin Therapies</li>
-              <li>Nail Care</li>
+              <li>Hair Cut & Styling</li>
+              <li>Brazilian Keratin</li>
+              <li>Hair Color & Highlights</li>
+              <li>Rebonding</li>
+              <li>Balayage</li>
             </ul>
           </div>
 
