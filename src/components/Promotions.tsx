@@ -41,7 +41,7 @@ const Promotions = () => {
             <div className="relative z-10 p-8 md:p-12 flex flex-col justify-end h-full min-h-[350px] md:min-h-[400px]">
               <h3 className="text-3xl md:text-4xl font-serif font-bold text-white mb-3 md:mb-4">
                 Treat Yourself for
-                <span className="block mt-1 md:mt-2 text-primary">Beautiful Hair & Skin</span>
+                <span className="block mt-1 md:mt-2 text-primary">Beautiful Hair</span>
               </h3>
               <p className="text-white/90 text-base md:text-lg mb-4 md:mb-6">
                 Indulge in luxury treatments designed for you
