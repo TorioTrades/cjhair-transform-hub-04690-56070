@@ -5,7 +5,6 @@ import Services from "@/components/Services";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import Promotions from "@/components/Promotions";
 import Testimonials from "@/components/Testimonials";
-import SocialFeed from "@/components/SocialFeed";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -19,7 +18,6 @@ const Index = () => {
         <WhyChooseUs />
         <Promotions />
         <Testimonials />
-        <SocialFeed />
       </main>
       <Footer />
     </div>
