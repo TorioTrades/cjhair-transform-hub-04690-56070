@@ -13,35 +13,35 @@ const About = () => {
           {/* Text Content */}
           <div className="space-y-4 md:space-y-6 animate-fade-in-up">
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-              Discover your personal style sanctuary at <span className="font-semibold text-foreground">CJ Hair Lounge</span> — where stunning style and happiness come to you via complete transformation. As one of Pampanga's leading destinations for beauty and wellness, we're passionate about bringing global beauty trends to you with a luxury approach.
+              Discover your personal style sanctuary at <span className="font-semibold text-foreground">CJ Hair Lounge</span> — where stunning hair transformations come to life. As one of Pampanga's premier destinations for hair excellence, we're passionate about bringing global hair trends and techniques to you with a luxury approach.
             </p>
             
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-              Our methodology combines cutting-edge techniques with personalized attention, helping clients achieve confidence through style and wellness. We believe in delivering transformative beauty experiences that go beyond the surface.
+              Our expertise combines cutting-edge hair technology with personalized attention, helping clients achieve confidence through beautiful, healthy hair. We specialize in transformative hair experiences that enhance your natural beauty.
             </p>
 
             <div className="grid grid-cols-1 gap-3 md:gap-4 pt-4">
               <div className="flex items-start space-x-2 md:space-x-3">
                 <div className="w-2 h-2 rounded-full bg-primary mt-2 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold text-sm md:text-base text-foreground">Light Peels and Advanced Skin Therapies</h4>
-                  <p className="text-sm md:text-base text-muted-foreground">Specialized skin treatments and rejuvenation</p>
+                  <h4 className="font-semibold text-sm md:text-base text-foreground">Brazilian Keratin Treatments</h4>
+                  <p className="text-sm md:text-base text-muted-foreground">Smooth, frizz-free hair with our signature keratin therapy</p>
                 </div>
               </div>
               
               <div className="flex items-start space-x-2 md:space-x-3">
                 <div className="w-2 h-2 rounded-full bg-primary mt-2 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold text-sm md:text-base text-foreground">Complete Hair Transformation Services</h4>
-                  <p className="text-sm md:text-base text-muted-foreground">From styling to extensions, comprehensive hair care</p>
+                  <h4 className="font-semibold text-sm md:text-base text-foreground">Color & Highlights Expertise</h4>
+                  <p className="text-sm md:text-base text-muted-foreground">From balayage to full color transformations</p>
                 </div>
               </div>
               
               <div className="flex items-start space-x-2 md:space-x-3">
                 <div className="w-2 h-2 rounded-full bg-primary mt-2 flex-shrink-0" />
                 <div>
-                  <h4 className="font-semibold text-sm md:text-base text-foreground">Luxury Beauty and Makeup Services</h4>
-                  <p className="text-sm md:text-base text-muted-foreground">Professional makeup application and beauty treatments</p>
+                  <h4 className="font-semibold text-sm md:text-base text-foreground">Professional Styling Services</h4>
+                  <p className="text-sm md:text-base text-muted-foreground">Cuts, blow dry, curling, and rebonding for every style</p>
                 </div>
               </div>
             </div>
